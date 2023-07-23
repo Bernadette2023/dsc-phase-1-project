@@ -126,7 +126,7 @@ Real-Time Data: Use real-time data monitoring to adjust marketing strategy and r
 
 ## For More Information
 
-Please review my full analysis in http://localhost:8888/notebooks/student.ipynb or my http://localhost:8888/files/presentation.pdf
+Please review my full analysis in https://github.com/Bernadette2023/dsc-phase-1-project/blob/master/student.ipynb or my https://github.com/Bernadette2023/dsc-phase-1-project/blob/master/presentation.pdf
 
 For any additional questions, please contact Bernadette Wanjiku Nganga & bernadette.nganga@student.moringaschool.com
 
