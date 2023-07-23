@@ -86,13 +86,16 @@ Overall, I am confident that the results of the descriptive analysis provide val
 
 ### Visual 1
 
-![image](https://github.com/Bernadette2023/dsc-phase-1-project/assets/133041718/1d6f73be-3961-44ee-bbd1-ab112d6a5cd4)
+![image](https://github.com/Bernadette2023/dsc-phase-1-project/assets/133041718/8a3a755c-5a5b-4a03-b481-6d40b9aba8c3)
+
 
 ### Visual 2
-![image](https://github.com/Bernadette2023/dsc-phase-1-project/assets/133041718/8aec992e-77df-44ab-884b-9f05387d4877)
+![image](https://github.com/Bernadette2023/dsc-phase-1-project/assets/133041718/30eef253-c695-4829-a0dd-f37dc8162388)
+
 
 ### Visual 3
-![image](https://github.com/Bernadette2023/dsc-phase-1-project/assets/133041718/0484e1f6-469c-430e-aa2e-1c5eb3b7b647)
+![image](https://github.com/Bernadette2023/dsc-phase-1-project/assets/133041718/9f13186b-4c5f-47f5-aa6b-a3b07763825d)
+
 
 
 
